@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "响应按钮事件", "响应按钮事件\响应按钮事件.vcxproj", "{BCCBECA4-D561-4705-854B-77E9C5FB1CC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自绘标题栏", "自绘标题栏\自绘标题栏.vcxproj", "{BB67DBE9-1ADF-4CCC-8CC4-DCFDB1C56416}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -21,6 +23,10 @@ Global
 		{BCCBECA4-D561-4705-854B-77E9C5FB1CC9}.Debug|Win32.Build.0 = Debug|Win32
 		{BCCBECA4-D561-4705-854B-77E9C5FB1CC9}.Release|Win32.ActiveCfg = Release|Win32
 		{BCCBECA4-D561-4705-854B-77E9C5FB1CC9}.Release|Win32.Build.0 = Release|Win32
+		{BB67DBE9-1ADF-4CCC-8CC4-DCFDB1C56416}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB67DBE9-1ADF-4CCC-8CC4-DCFDB1C56416}.Debug|Win32.Build.0 = Debug|Win32
+		{BB67DBE9-1ADF-4CCC-8CC4-DCFDB1C56416}.Release|Win32.ActiveCfg = Release|Win32
+		{BB67DBE9-1ADF-4CCC-8CC4-DCFDB1C56416}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
