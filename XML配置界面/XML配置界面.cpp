@@ -77,6 +77,8 @@ int APIENTRY _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCm
 
 	DuiFrameWnd duiFrame;
 	duiFrame.Create(nullptr, _T("DuiWnd"), UI_WNDSTYLE_FRAME, WS_EX_WINDOWEDGE);
+	// …Ë÷√¥∞ø⁄æ”÷–
+	duiFrame.CenterWindow();
 	duiFrame.ShowModal();
 
 	return 0;

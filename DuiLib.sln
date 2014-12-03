@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自绘标题栏", "自绘�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XML配置界面", "XML配置界面\XML配置界面.vcxproj", "{CC759836-979F-4BE8-886D-8B3B23D7F49D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XML基础类", "XML基础类\XML基础类.vcxproj", "{D4D3DB05-3F39-4C77-8F39-56C91958D227}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "自绘标题栏XML版", "自绘标题栏XML版\自绘标题栏XML版.vcxproj", "{C1B1BC66-5C9C-4E93-9B4B-54FBFA7DD658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +37,14 @@ Global
 		{CC759836-979F-4BE8-886D-8B3B23D7F49D}.Debug|Win32.Build.0 = Debug|Win32
 		{CC759836-979F-4BE8-886D-8B3B23D7F49D}.Release|Win32.ActiveCfg = Release|Win32
 		{CC759836-979F-4BE8-886D-8B3B23D7F49D}.Release|Win32.Build.0 = Release|Win32
+		{D4D3DB05-3F39-4C77-8F39-56C91958D227}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4D3DB05-3F39-4C77-8F39-56C91958D227}.Debug|Win32.Build.0 = Debug|Win32
+		{D4D3DB05-3F39-4C77-8F39-56C91958D227}.Release|Win32.ActiveCfg = Release|Win32
+		{D4D3DB05-3F39-4C77-8F39-56C91958D227}.Release|Win32.Build.0 = Release|Win32
+		{C1B1BC66-5C9C-4E93-9B4B-54FBFA7DD658}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1B1BC66-5C9C-4E93-9B4B-54FBFA7DD658}.Debug|Win32.Build.0 = Debug|Win32
+		{C1B1BC66-5C9C-4E93-9B4B-54FBFA7DD658}.Release|Win32.ActiveCfg = Release|Win32
+		{C1B1BC66-5C9C-4E93-9B4B-54FBFA7DD658}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
