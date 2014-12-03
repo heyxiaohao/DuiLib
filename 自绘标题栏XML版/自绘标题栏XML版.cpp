@@ -13,6 +13,7 @@ public:
 	virtual CDuiString GetSkinFolder() { return _T("../×Ô»æ±êÌâÀ¸XML°æ"); }
 };
 
+
 int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLine, int nCmdShow)
 {
 	CPaintManagerUI::SetInstance(hInstance);
