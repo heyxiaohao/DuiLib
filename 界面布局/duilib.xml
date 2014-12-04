@@ -2,10 +2,16 @@
 <Window size="800,600" mininfo="600,400" caption="0,0,0,32" sizebox="4,4,4,4">
   <!--垂直布局-->
   <VerticalLayout bkcolor="#fff0f0f0" bkcolor2="#ffaaaaa0"><!--VerticalLayout对应CVerticalLayoutUI控件-->
-    <HorizontalLayout height="32" /><!--占空位-->
-    <!-- 标题栏区 -->
+     <!-- 标题栏区 -->
     <!--height表示标题栏的高度为32像素-->
+    <!--水平布局-->
     <HorizontalLayout height="32" bkcolor="#FFE6E6DC" bkcolor2="#FFAAAAA0">
+      <HorizontalLayout />
+      <HorizontalLayout width="77">
+        <Button width="23" height="20" name="minbtn" normalimage=" file='SysBtn\MinNormal.bmp' " hotimage=" file='SysBtn\MinFocus.bmp' "/>
+        <Button width="23" height="20" name="maxbtn" normalimage=" file='SysBtn\MaxNormal.bmp' " hotimage=" file='SysBtn\MaxFocus.bmp' "/>
+        <Button width="23" height="20" name="closebtn" normalimage=" file='SysBtn\closeNormal.bmp' " hotimage=" file='SysBtn\closeFocus.bmp' "/>
+      </HorizontalLayout>
     </HorizontalLayout>
 
     <HorizontalLayout />

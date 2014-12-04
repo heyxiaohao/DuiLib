@@ -13,7 +13,6 @@ public:
 	virtual CDuiString GetSkinFolder() { return _T("../界面布局"); }
 };
 
-
 int WINAPI _tWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPTSTR lpCmdLine, int nCmdShow)
 {
 	CPaintManagerUI::SetInstance(hInstance);
