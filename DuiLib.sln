@@ -33,6 +33,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "组合框", "组合框\组�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC中使用duilib", "MFC中使用duilib\MFC中使用duilib.vcxproj", "{CF1B35EF-A238-4D94-87C1-23786863B2B0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "使用MFC控件", "使用MFC控件\使用MFC控件.vcxproj", "{9A515530-1BBB-4079-B916-1F390FF3F39A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -95,6 +97,10 @@ Global
 		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Debug|Win32.Build.0 = Debug|Win32
 		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Release|Win32.ActiveCfg = Release|Win32
 		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Release|Win32.Build.0 = Release|Win32
+		{9A515530-1BBB-4079-B916-1F390FF3F39A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A515530-1BBB-4079-B916-1F390FF3F39A}.Debug|Win32.Build.0 = Debug|Win32
+		{9A515530-1BBB-4079-B916-1F390FF3F39A}.Release|Win32.ActiveCfg = Release|Win32
+		{9A515530-1BBB-4079-B916-1F390FF3F39A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
