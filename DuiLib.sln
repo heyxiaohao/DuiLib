@@ -25,6 +25,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单控件", "简单控�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复杂控件", "复杂控件\复杂控件.vcxproj", "{BBF285A3-CF27-4392-82A1-6E23B7167276}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "自绘控件", "自绘控件", "{AE5B1811-21D8-4725-A7E7-F04C82ABF11E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "菜单", "菜单\菜单.vcxproj", "{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -75,8 +79,15 @@ Global
 		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Debug|Win32.Build.0 = Debug|Win32
 		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Release|Win32.ActiveCfg = Release|Win32
 		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Release|Win32.Build.0 = Release|Win32
+		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Debug|Win32.Build.0 = Debug|Win32
+		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Release|Win32.ActiveCfg = Release|Win32
+		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D} = {AE5B1811-21D8-4725-A7E7-F04C82ABF11E}
 	EndGlobalSection
 EndGlobal

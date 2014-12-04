@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window size="120,82">
+  <Button name="btnMenu" text="选项" float="true" pos="475,28,0,0" width="37" height="19" align="center" normalimage="" hotimage="Menu/btn_menu_hot.png" pushedimage="Menu/btn_menu_hot.png" focusedimage="Menu/btn_menu_hot.png" textcolor="#FF000000" hottextcolor="#FFFFFFFF" pushedtextcolor="#FFFFFFFF" focusedtextcolor="#FFFFFFFF" bkcolor="#FFECE9D8" />
+</Window>
