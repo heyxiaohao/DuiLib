@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="800,600" mininfo="600,400" caption="0,0,0,32" sizebox="4,4,4,4">
+    <VerticalLayout width="400" height="400" bkcolor="#FF24DA91" bkcolor2="#00FFFBF0">
+        <HorizontalLayout height="30" bkcolor="#FF0000FF">
+            <HorizontalLayout height="30" />
+            <HorizontalLayout width="77" height="30">
+                <Button name="minbtn" tooltip="最小化" float="true" pos="7,7,0,0" width="18" height="17" bkcolor="#FFA0A0A4" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage=" file='SysBtn\MinNormal.bmp' " hotimage=" file='SysBtn\MinFocus.bmp' " pushedimage=" file='SysBtn\MinFocus.bmp' "/>
+                <Button float="true" pos="52,7,0,0" width="18" height="17" bkcolor="#FFA0A0A4" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+                <Button float="true" pos="29,7,0,0" width="18" height="17" bkcolor="#FFA0A0A4" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+            </HorizontalLayout>
+        </HorizontalLayout>
+    </VerticalLayout>
+</Window>
