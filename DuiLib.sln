@@ -29,6 +29,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "自绘控件", "自绘控�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "菜单", "菜单\菜单.vcxproj", "{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "组合框", "组合框\组合框.vcxproj", "{C91D89A4-F270-499B-B747-05A377A74DF3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFC中使用duilib", "MFC中使用duilib\MFC中使用duilib.vcxproj", "{CF1B35EF-A238-4D94-87C1-23786863B2B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -83,11 +87,20 @@ Global
 		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Debug|Win32.Build.0 = Debug|Win32
 		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Release|Win32.ActiveCfg = Release|Win32
 		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D}.Release|Win32.Build.0 = Release|Win32
+		{C91D89A4-F270-499B-B747-05A377A74DF3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C91D89A4-F270-499B-B747-05A377A74DF3}.Debug|Win32.Build.0 = Debug|Win32
+		{C91D89A4-F270-499B-B747-05A377A74DF3}.Release|Win32.ActiveCfg = Release|Win32
+		{C91D89A4-F270-499B-B747-05A377A74DF3}.Release|Win32.Build.0 = Release|Win32
+		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Debug|Win32.Build.0 = Debug|Win32
+		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Release|Win32.ActiveCfg = Release|Win32
+		{CF1B35EF-A238-4D94-87C1-23786863B2B0}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0D74AAAD-A98D-4A46-874A-87FFC0B7098D} = {AE5B1811-21D8-4725-A7E7-F04C82ABF11E}
+		{C91D89A4-F270-499B-B747-05A377A74DF3} = {AE5B1811-21D8-4725-A7E7-F04C82ABF11E}
 	EndGlobalSection
 EndGlobal

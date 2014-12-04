@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Window size="120,82">
-  <Button name="btnMenu" text="选项" float="true" pos="475,28,0,0" width="37" height="19" align="center" normalimage="" hotimage="Menu/btn_menu_hot.png" pushedimage="Menu/btn_menu_hot.png" focusedimage="Menu/btn_menu_hot.png" textcolor="#FF000000" hottextcolor="#FFFFFFFF" pushedtextcolor="#FFFFFFFF" focusedtextcolor="#FFFFFFFF" bkcolor="#FFECE9D8" />
+<Window size="800,600">
+  <VerticalLayout bkcolor="#FFF0F0F0" bkcolor2="#FFAAAAA0">
+    <DateTime name="DateTimeDemo1" float="true" pos="30,118,0,0" width="120" height="30" bkcolor="#FFE2E5EA" padding="0,5,0,0" />
+    <Button name="btnMenu" text="选项" float="true" pos="475,28,0,0" width="37" height="19" align="center" normalimage="" hotimage="Menu/btn_menu_hot.png" pushedimage="Menu/btn_menu_hot.png" focusedimage="Menu/btn_menu_hot.png" textcolor="#FF000000" hottextcolor="#FFFFFFFF" pushedtextcolor="#FFFFFFFF" focusedtextcolor="#FFFFFFFF" bkcolor="#FFECE9D8" />
+  </VerticalLayout>
 </Window>

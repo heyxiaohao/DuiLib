@@ -1,5 +1,5 @@
 /*
-
+问题：所有的MFC控件都显示在duilib窗口的上面，这里和ZORD顺序应该有关系
 */
 
 #include <UIlib.h>
