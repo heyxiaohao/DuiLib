@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="XML基础类.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="duilib.xml" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{D4D3DB05-3F39-4C77-8F39-56C91958D227}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>

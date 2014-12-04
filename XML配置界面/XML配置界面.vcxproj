@@ -83,6 +83,9 @@
   <ItemGroup>
     <ClCompile Include="XML配置界面.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Xml Include="duilib.xml" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

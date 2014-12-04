@@ -7,7 +7,6 @@ public:
 	virtual LPCTSTR GetWindowClassName() const { return _T("DuiMainFrame"); }
 	virtual void Notify(TNotifyUI& msg) {}
 
-
 	virtual LRESULT HandleMessage(UINT uMsg, WPARAM wParam, LPARAM lParam)
 	{
 		LRESULT lRes = 0;
