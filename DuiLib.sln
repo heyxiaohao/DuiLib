@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bug", "Bug\Bug.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "简单控件", "简单控件\简单控件.vcxproj", "{FECCBEEB-1C94-4DE5-88B4-780275F348A6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "复杂控件", "复杂控件\复杂控件.vcxproj", "{BBF285A3-CF27-4392-82A1-6E23B7167276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -69,6 +71,10 @@ Global
 		{FECCBEEB-1C94-4DE5-88B4-780275F348A6}.Debug|Win32.Build.0 = Debug|Win32
 		{FECCBEEB-1C94-4DE5-88B4-780275F348A6}.Release|Win32.ActiveCfg = Release|Win32
 		{FECCBEEB-1C94-4DE5-88B4-780275F348A6}.Release|Win32.Build.0 = Release|Win32
+		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Debug|Win32.Build.0 = Debug|Win32
+		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Release|Win32.ActiveCfg = Release|Win32
+		{BBF285A3-CF27-4392-82A1-6E23B7167276}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
